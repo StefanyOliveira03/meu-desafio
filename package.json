@@ -1,0 +1,22 @@
+{
+  "name": "meu-desafio",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanyOliveira03/meu-desafio.git"
+  },
+  "author": "Stefany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanyOliveira03/meu-desafio/issues"
+  },
+  "homepage": "https://github.com/StefanyOliveira03/meu-desafio#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
